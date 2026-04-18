@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MirukuSorter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+843b2532fdc913397a718e8a00d2a49fdc19f1e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MirukuSorter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MirukuSorter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

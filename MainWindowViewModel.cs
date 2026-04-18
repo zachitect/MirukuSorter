@@ -102,10 +102,6 @@ namespace MirukuSorter
                     string selectedFolder = openFolderDialog.FolderName;
                     LoadedDirectory = selectedFolder; // Update the directory path
 
-                    // Supported file extensions for photos and videos
-                    string[] photoExtensions = { ".jpg", ".jpeg", ".png", ".bmp", ".gif" };
-                    string[] videoExtensions = { ".mp4", ".avi", ".mkv", ".mov", ".wmv" };
-
                     // Scan the folder for media files
                     List<string> photoPaths = MediaDiscoverer.DiscoverPhotoFiles(selectedFolder, true);
                     List<string> videoPaths = MediaDiscoverer.DiscoverVideoFiles(selectedFolder, true);

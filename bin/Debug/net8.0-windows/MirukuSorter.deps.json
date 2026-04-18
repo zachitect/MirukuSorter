@@ -8,62 +8,21 @@
     ".NETCoreApp,Version=v8.0": {
       "MirukuSorter/1.0.0": {
         "dependencies": {
-          "MetadataExtractor": "2.8.1",
-          "System.Drawing.Common": "9.0.7"
+          "MetadataExtractor": "2.9.3"
         },
         "runtime": {
           "MirukuSorter.dll": {}
         }
       },
-      "MetadataExtractor/2.8.1": {
+      "MetadataExtractor/2.9.3": {
         "dependencies": {
-          "System.Text.Encoding.CodePages": "4.5.1",
           "XmpCore": "6.1.10.1"
         },
         "runtime": {
-          "lib/netstandard2.0/MetadataExtractor.dll": {
-            "assemblyVersion": "2.8.1.0",
-            "fileVersion": "2.8.1.0"
+          "lib/net8.0/MetadataExtractor.dll": {
+            "assemblyVersion": "2.9.3.0",
+            "fileVersion": "2.9.3.0"
           }
-        }
-      },
-      "Microsoft.NETCore.Platforms/2.1.2": {},
-      "Microsoft.Win32.SystemEvents/9.0.7": {
-        "runtime": {
-          "lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
-            "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.0.725.31616"
-          }
-        },
-        "runtimeTargets": {
-          "runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
-            "rid": "win",
-            "assetType": "runtime",
-            "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.0.725.31616"
-          }
-        }
-      },
-      "System.Drawing.Common/9.0.7": {
-        "dependencies": {
-          "Microsoft.Win32.SystemEvents": "9.0.7"
-        },
-        "runtime": {
-          "lib/net8.0/System.Drawing.Common.dll": {
-            "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.0.725.31604"
-          },
-          "lib/net8.0/System.Private.Windows.Core.dll": {
-            "assemblyVersion": "9.0.0.0",
-            "fileVersion": "9.0.725.31604"
-          }
-        }
-      },
-      "System.Runtime.CompilerServices.Unsafe/4.5.2": {},
-      "System.Text.Encoding.CodePages/4.5.1": {
-        "dependencies": {
-          "Microsoft.NETCore.Platforms": "2.1.2",
-          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
         }
       },
       "XmpCore/6.1.10.1": {
@@ -82,47 +41,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "MetadataExtractor/2.8.1": {
+    "MetadataExtractor/2.9.3": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-5VFc1urVZiIjB6zZ4nUkqDJntGPGPgPIrSqRtkAZ1AFDKHmxbRSHL3zZi9qMd8JYtOu/T8d5rZ7740jj/+dHOg==",
-      "path": "metadataextractor/2.8.1",
-      "hashPath": "metadataextractor.2.8.1.nupkg.sha512"
-    },
-    "Microsoft.NETCore.Platforms/2.1.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-mOJy3M0UN+LUG21dLGMxaWZEP6xYpQEpLuvuEQBaownaX4YuhH6NmNUlN9si+vNkAS6dwJ//N1O4DmLf2CikVg==",
-      "path": "microsoft.netcore.platforms/2.1.2",
-      "hashPath": "microsoft.netcore.platforms.2.1.2.nupkg.sha512"
-    },
-    "Microsoft.Win32.SystemEvents/9.0.7": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-lFGY2aGgmMREPJEfOmZcA6v0CLjWVpcfNHRgqYMoSQhy80+GxhYqdW5xe+DCLrVqE1M7/0RpOkIo49/KH/cd/A==",
-      "path": "microsoft.win32.systemevents/9.0.7",
-      "hashPath": "microsoft.win32.systemevents.9.0.7.nupkg.sha512"
-    },
-    "System.Drawing.Common/9.0.7": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-1k/Pk7hcM3vP2tfIRRS2ECCCN7ya+hvocsM1JMc4ZDCU6qw7yOuUmqmCDfgXZ4Q4FS6jass2EAai5ByKodDi0g==",
-      "path": "system.drawing.common/9.0.7",
-      "hashPath": "system.drawing.common.9.0.7.nupkg.sha512"
-    },
-    "System.Runtime.CompilerServices.Unsafe/4.5.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-wprSFgext8cwqymChhrBLu62LMg/1u92bU+VOwyfBimSPVFXtsNqEWC92Pf9ofzJFlk4IHmJA75EDJn1b2goAQ==",
-      "path": "system.runtime.compilerservices.unsafe/4.5.2",
-      "hashPath": "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
-    },
-    "System.Text.Encoding.CodePages/4.5.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-4J2JQXbftjPMppIHJ7IC+VXQ9XfEagN92vZZNoG12i+zReYlim5dMoXFC1Zzg7tsnKDM7JPo5bYfFK4Jheq44w==",
-      "path": "system.text.encoding.codepages/4.5.1",
-      "hashPath": "system.text.encoding.codepages.4.5.1.nupkg.sha512"
+      "sha512": "sha512-7dBcqlPC2Zc/bsZtXnv8nCWe5h5WsLHszzHtxnpcsVy4MwlD3KQ3wVNoiYBm0a3rzt5hRwAosPvLPhlXrV5lyg==",
+      "path": "metadataextractor/2.9.3",
+      "hashPath": "metadataextractor.2.9.3.nupkg.sha512"
     },
     "XmpCore/6.1.10.1": {
       "type": "package",

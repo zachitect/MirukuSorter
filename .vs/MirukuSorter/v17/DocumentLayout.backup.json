@@ -3,12 +3,41 @@
   "WorkspaceRootPath": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SmellGood\\AppData\\Roaming\\NuGet\\NuGet.Config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|c:\\users\\smellgood\\source\\repos\\mirukusorter\\mediadatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|solutionrelative:mediadatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|c:\\users\\smellgood\\source\\repos\\mirukusorter\\mediacopysorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|solutionrelative:mediacopysorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|c:\\users\\smellgood\\source\\repos\\mirukusorter\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|c:\\users\\smellgood\\source\\repos\\mirukusorter\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|solutionrelative:mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|c:\\users\\smellgood\\source\\repos\\mirukusorter\\mediametaholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|solutionrelative:mediametaholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|c:\\users\\smellgood\\source\\repos\\mirukusorter\\mediadiscoverer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|solutionrelative:mediadiscoverer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|c:\\users\\smellgood\\source\\repos\\mirukusorter\\mirukusorter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|solutionrelative:mirukusorter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|c:\\users\\smellgood\\source\\repos\\mirukusorter\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,18 +46,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|c:\\users\\smellgood\\source\\repos\\mirukusorter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|c:\\users\\smellgood\\source\\repos\\mirukusorter\\mediadiscoverer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|solutionrelative:mediadiscoverer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|c:\\users\\smellgood\\source\\repos\\mirukusorter\\mediametaholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|solutionrelative:mediametaholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|c:\\users\\smellgood\\source\\repos\\mirukusorter\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ADDC177-232E-4BFF-B576-71CCD5A1A1CF}|MirukuSorter.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,48 +55,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MediaMetaHolder.cs",
               "DocumentMoniker": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\MediaMetaHolder.cs",
               "RelativeDocumentMoniker": "MediaMetaHolder.cs",
               "ToolTip": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\MediaMetaHolder.cs",
               "RelativeToolTip": "MediaMetaHolder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T13:24:44.565Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\AssemblyInfo.cs",
-              "RelativeToolTip": "AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T13:32:31.424Z"
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Microsoft.VisualStudio.Offline.config",
+              "DocumentMoniker": "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+              "ToolTip": "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-05T03:46:56.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NuGet.Config",
+              "DocumentMoniker": "C:\\Users\\SmellGood\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "ToolTip": "C:\\Users\\SmellGood\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-05T03:46:47.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MirukuSorter",
+              "DocumentMoniker": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\MirukuSorter.csproj",
+              "RelativeDocumentMoniker": "MirukuSorter.csproj",
+              "ToolTip": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\MirukuSorter.csproj",
+              "RelativeToolTip": "MirukuSorter.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-05T03:42:09.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAHgAAAAAAAAAAADgvwkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-04-05T03:40:06.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "MainWindowViewModel.cs",
               "ToolTip": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\MainWindowViewModel.cs",
               "RelativeToolTip": "MainWindowViewModel.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAAAG4AAABnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T13:31:56.87Z"
+              "WhenOpened": "2025-07-27T13:31:56.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
@@ -87,42 +145,71 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T13:11:55.819Z"
+              "WhenOpened": "2025-07-27T13:11:55.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T13:32:31.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MediaDataReader.cs",
+              "DocumentMoniker": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\MediaDataReader.cs",
+              "RelativeDocumentMoniker": "MediaDataReader.cs",
+              "ToolTip": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\MediaDataReader.cs",
+              "RelativeToolTip": "MediaDataReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T12:51:38.002Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "MediaCopySorter.cs",
+              "DocumentMoniker": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\MediaCopySorter.cs",
+              "RelativeDocumentMoniker": "MediaCopySorter.cs",
+              "ToolTip": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\MediaCopySorter.cs",
+              "RelativeToolTip": "MediaCopySorter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T14:00:46.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-27T13:00:29.176Z"
+              "WhenOpened": "2025-07-27T13:00:29.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MediaDiscoverer.cs",
               "DocumentMoniker": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\MediaDiscoverer.cs",
               "RelativeDocumentMoniker": "MediaDiscoverer.cs",
               "ToolTip": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\MediaDiscoverer.cs",
               "RelativeToolTip": "MediaDiscoverer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T13:00:21.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MediaDataReader.cs",
-              "DocumentMoniker": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\MediaDataReader.cs",
-              "RelativeDocumentMoniker": "MediaDataReader.cs",
-              "ToolTip": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\MediaDataReader.cs",
-              "RelativeToolTip": "MediaDataReader.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAADwvzAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T12:51:38.002Z",
+              "WhenOpened": "2025-07-27T13:00:21.321Z",
               "EditorCaption": ""
             }
           ]

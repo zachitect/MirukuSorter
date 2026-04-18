@@ -1,16 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "rdpuGPlq84k=",
+  "dgSpecHash": "W70nMQPbK2Q=",
   "success": true,
   "projectFilePath": "C:\\Users\\SmellGood\\source\\repos\\MirukuSorter\\MirukuSorter.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\SmellGood\\.nuget\\packages\\metadataextractor\\2.8.1\\metadataextractor.2.8.1.nupkg.sha512",
-    "C:\\Users\\SmellGood\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
-    "C:\\Users\\SmellGood\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.7\\microsoft.win32.systemevents.9.0.7.nupkg.sha512",
-    "C:\\Users\\SmellGood\\.nuget\\packages\\system.drawing.common\\9.0.7\\system.drawing.common.9.0.7.nupkg.sha512",
-    "C:\\Users\\SmellGood\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
-    "C:\\Users\\SmellGood\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
-    "C:\\Users\\SmellGood\\.nuget\\packages\\xmpcore\\6.1.10.1\\xmpcore.6.1.10.1.nupkg.sha512"
+    "C:\\Users\\SmellGood\\.nuget\\packages\\metadataextractor\\2.9.3\\metadataextractor.2.9.3.nupkg.sha512",
+    "C:\\Users\\SmellGood\\.nuget\\packages\\xmpcore\\6.1.10.1\\xmpcore.6.1.10.1.nupkg.sha512",
+    "C:\\Users\\SmellGood\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\SmellGood\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\SmellGood\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\SmellGood\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
   ],
   "logs": []
 }
